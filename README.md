@@ -1,0 +1,10 @@
+# stocks-analysis
+ OVERVIEW OF PROJECT
+In module 2 we learned how to use visual basic for applications to add analytical power to excel. We can write scripts and macros to create tasks to make complex analyses.  Some of the concepts we learned were looping, pattern recognition was huge, debugging, how to enable macros, how to build a subroutine data types, using comments, invalidating a statement, nested loops, how to use stack overflow in the web to find answers for these complex statements, looping through rows which I found very difficult and spent a good part of my day trying to figure out, formatting like static and numeric, column with fitting, conditional formatting like coloring and much more.
+
+RESULTS
+I uploaded the images of the example of my code to get hub. I ran my analysis only on 2018 and I didn't have time to run it against 2017. They executed in less than a second.  I found refactoring my code to be kind of fun because it improved functionality without changing the external behavior. I enjoy editing and writing and I think maybe this is why I enjoy refactoring!
+
+SUMMARY
+1. The advantage of refactoring is as follows. We can change code to improve functionality and design and structure to fix bugs and vulnerabilities hidden in the software. A disadvantage of refactoring though is that it may introduce new damage not yet found and make more complexity than intended. It also takes a lot of extra time can lead to delays.  I would say that someone who is refactoring must be an excellent coder with many years of experience in order to understand the refactor process testing and planning in a solid understanding of the code.
+2.  These pros and cons apply to the original VBA script in that once again as stated we can find flaws or introduce them. Refactoring in itself is almost a separate job and takes extended time. It would seem that debugging would be it included but many sites say that debugging is done separately. Refactoring and patching done regularly generates a high return on investment because it can address a significant issue without taking too much time and effort on the back side of your project.
